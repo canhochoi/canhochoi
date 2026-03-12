@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a researcher working on single cell data analysis and method development<br>👯 I’m open to collaboration on biophysics/chemistry and machine learning and statistical methods for single cell data<br>🌱 I’m currently learning advanced statistics and machine learning methods as well as software engineering<br>⚡ Fun fact: I like physics and chemistry and their applications in biology.  
+🔭 I’m a researcher working on single cell data analysis, biophysics, materials chemistry and method development<br>👯 I’m open to collaboration on biophysics/chemistry and machine learning and statistical methods for single cell data<br>🌱 I’m currently learning advanced statistics and machine learning methods as well as software engineering<br>⚡ Fun fact: I like physics and chemistry and their applications in biology.  
 
 
 ## 🌐 Socials:
